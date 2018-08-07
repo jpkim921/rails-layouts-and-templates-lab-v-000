@@ -1,4 +1,5 @@
 class StoreAdminController < ApplicationController
 
+  
 
 end
