@@ -9,7 +9,7 @@ class StoreAdminController < ApplicationController
   end
 
   def invoice
-    render :layout => "order_administration"
+    render :layout => false
   end
 
 end
